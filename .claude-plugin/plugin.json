@@ -1,0 +1,10 @@
+{
+  "name": "youtube-organize",
+  "version": "1.0.0",
+  "description": "Sort your YouTube Liked videos (or Watch Later) into private topic playlists. Claude proposes the topics, you approve, and it builds the playlists with the official YouTube API. Never deletes anything.",
+  "author": { "name": "Gr3cko.G0rdon" },
+  "homepage": "https://github.com/dentalsilutionsnic/youtube_organizer_gr3cko",
+  "repository": "https://github.com/dentalsilutionsnic/youtube_organizer_gr3cko",
+  "license": "MIT",
+  "keywords": ["youtube", "playlists", "organize", "liked videos", "watch later"]
+}
