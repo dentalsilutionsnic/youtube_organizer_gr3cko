@@ -1,0 +1,12 @@
+{
+  "name": "youtube-organize",
+  "owner": { "name": "Gr3cko.G0rdon" },
+  "description": "Free Claude Code plugin that organizes your YouTube library into topic playlists.",
+  "plugins": [
+    {
+      "name": "youtube-organize",
+      "source": "./",
+      "description": "Sort your YouTube Liked videos or Watch Later into private topic playlists."
+    }
+  ]
+}
